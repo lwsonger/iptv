@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",欧洲杯 1
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",欧洲杯2
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",欧洲杯 3
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",欧洲杯咪咕 推荐
+http://gslbflvmgsplive.miguvideo.com/mglive/4kvivid03_221406.flv?msisdn=52d14f9cff409fb795ace980107be528&mdspid=&spid=800033&netType=4&sid=7510247819&pid=2028597139×tamp=20240622204152&Channel_ID=0116_2600025500-99000-200300220100002&ProgramID=917877002&ParentNodeID=-99&assertID=7510247819&client_ip=240e:390:89c:cbf3:4927:df84:c508:a79d&SecurityKey=20240622204152&promotionId=&mvid=7510123573&mcid=500020&mpid=120000500607&playurlVersion=WX-A1-7.6.1-RELEASE&userid=1140026260&jmhm=52d14f9cff409fb795ace980107be528&videocodec=h265&mgdbId=120000500607&bean=mgspad&puData=63aec73c28a0840fd98fa70072a2739d&ddCalcu=d69343a27e72c0a7237c02087aa0f88490df&playUrlSsn=485395af31d8f046c13ae657af3ec54a1719060112284&prlId=485395af31d8f046c13ae657af3ec54a1719060112362&jid=485395af31d8f046c13ae657af3ec54a1719060112372V&LegoPageID=null&is_advertise=0&sjid=subsession_1719060128232&pos=-1000
 #EXTINF:-1 tvg-id="6145" tvg-name="台视综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视综合.png" group-title="港澳台",台视综合台
 http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
 #EXTINF:-1 tvg-id="61445" tvg-name="台视台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视台湾.png" group-title="港澳台",台视台湾
