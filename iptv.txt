@@ -422,6 +422,15 @@ CCTV17,http://123.6.102.32:11789/850.php?id=cctv17hd.m3u
 大湾区卫视,https://jrys.haycker.eu.org:4443/play/65?token=98604b785a0063d80a49f93b25b5cb40
 五星体育,https://jrys.haycker.eu.org:4443/play/36?token=98604b785a0063d80a49f93b25b5cb40
 
+四川文化旅游,http://dsk.cc/sctv/sctv.php?id=scwhly
+四川经济,http://dsk.cc/sctv/sctv.php?id=scjj
+四川新闻,http://dsk.cc/sctv/sctv.php?id=scxw
+四川影视文艺,http://dsk.cc/sctv/sctv.php?id=scyswy
+四川星空购物,http://dsk.cc/sctv/sctv.php?id=scxkgw
+四川妇女儿童h,ttp://dsk.cc/sctv/sctv.php?id=scfnet
+四川乡村,http://dsk.cc/sctv/sctv.php?id=scxc
+四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+
 🐉全国景区直播,#genre#
 大熊猫直播,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
