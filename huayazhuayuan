@@ -1,0 +1,168 @@
+打开虎牙某个主播的直播间。
+https://www.huya.com/27534712
+https://www.huya.com/29807256
+https://www.huya.com/10132155
+https://www.huya.com/28274529
+https://www.huya.com/25343324
+https://www.huya.com/25639846
+
+
+斗鱼、虎牙直播源解析
+实际上使用 js 或 ts 解析直播源才是最佳方式。
+仓库：https://github.com/thep0y/lsar
+https://gitee.com/thepoy/lsar
+抖音或b站必须加入cookie才能解析。
+
+
+1 准备环境
+运行本软件需要 node 运行环境，可通下以下链接下载：
+https://registry.npmmirror.com/-/binary/node/latest-v18.x/node-v18.17.0-x64.msi
+下载好后双击安装即可
+安装完成后打开终端检查一下，Windows 上的终端为 PowerShell 或 CMD ，macOS 上的终端就叫终端
+node -v
+正常的话应该会显示：
+v18.17.0
+下载lsar.1.3.1压缩包，https://github.com/thep0y/lsar/archive/refs/tags/v1.3.1.zip
+直接解压放在c或d根目录下就行了
+
+2 配置包管理器
+.1 npm（新手优先使用）
+node 内置的包管理是 npm，如果你只是一个新手，使用 npm 足矣。
+
+npm 使用的仓库地址在国外，国内访问会很慢，在终端中输入：
+npm config set registry https://registry.npmmirror.com
+
+
+
+
+3 安装本软件
+现在就可以使用你想用的包管理器来安装了。
+
+安装   包管理器
+npm i -g lsar
+
+
+2 源码
+安装依赖意思就是下载lsar.1.3.1压缩包，https://github.com/thep0y/lsar/archive/refs/tags/v1.3.1.zip
+
+
+3  然后再创建全局命令快捷方式以便全局调用：
+npm link -g
+
+
+
+虎牙。
+使用链接-u时一定要用英文单引号或双引号将链接包裹住，否则可能报错。
+lsar huya -r 房间号 比如https://www.huya.com/27534712
+lsar huya -r 27534712
+
+结果如下：：：
+解析完成，任选一条下面的播放源，卡顿时可尝试切换其他播放源
+
+{
+  title: '元梦之星-郭德纲于谦无唱相声: 郭德 纲 于 谦 无唱相声精选',
+  flv: {
+    '阿里': 'http://aldirect.flv.huya.com/huyalive/1199612461136-1199612461136-5654691888226107392-2399225045728-10057-A-0-1.flv?wsSecret=65ca646320cfb57472d9d17321067bed&wsTime=66cde2a9&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3192681320846&uid=1467998780964&uuid=1025531273',
+    '腾讯': 'http://tx.flv.huya.com/src/1199612461136-1199612461136-5654691888226107392-2399225045728-10057-A-0-1.flv?wsSecret=65ca646320cfb57472d9d17321067bed&wsTime=66cde2a9&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3192681320846&uid=1467998780964&uuid=1025531168',
+    '华为': 'http://hw.flv.huya.com/src/1199612461136-1199612461136-5654691888226107392-2399225045728-10057-A-0-1.flv?wsSecret=68467fdcd5feb6937b98e4e4de88d2ab&wsTime=66cde2a9&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3192681320847&uid=1467998780964&uuid=1025531908'
+  },
+  hls: {
+    '阿里': 'http://aldirect.hls.huya.com/huyalive/1199612461136-1199612461136-5654691888226107392-2399225045728-10057-A-0-1.m3u8?wsSecret=65ca646320cfb57472d9d17321067bed&wsTime=66cde2a9&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3192681320846&uid=1467998780964&uuid=1025530890',
+    '腾讯': 'http://tx.hls.huya.com/src/1199612461136-1199612461136-5654691888226107392-2399225045728-10057-A-0-1.m3u8?wsSecret=68467fdcd5feb6937b98e4e4de88d2ab&wsTime=66cde2a9&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3192681320847&uid=1467998780964&uuid=1025531471',
+    '华为': 'http://hw.hls.huya.com/src/1199612461136-1199612461136-5654691888226107392-2399225045728-10057-A-0-1.m3u8?wsSecret=68467fdcd5feb6937b98e4e4de88d2ab&wsTime=66cde2a9&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3192681320847&uid=1467998780964&uuid=1025531609'
+ 鼠标右键复制一个链接，不要前面的'华为': '和最后的'
+直播源格式就改为
+郭德纲无唱相声精选,http://aldirect.flv.huya.com/huyalive/1199612461136-1199612461136-5654691888226107392-2399225045728-10057-A-0-1.flv?wsSecret=65ca646320cfb57472d9d17321067bed&wsTime=66cde2a9&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2110211124&seqid=3192681320846&uid=1467998780964&uuid=1025531273
+
+
+lsar huya -r 29807256
+lsar huya -r 10132155
+lsar huya -r 28274529
+lsar huya -r 25343324
+lsar huya -r 25639846
+
+
+斗鱼
+lasr douyu 房间号
+
+b站更新了，需要传入 cookie，传入链接和 cookie 时需要用英文单引号或双引号包裹：
+
+lsar bili -r 100 'xxx=xxx'
+
+lsar bili -u "https://....." 'xxx=xxx'
+
+不会获取 cookie 的话可自行百度。
+
+
+
+
+以下先忽略
+必须贴点代码（代码是无用的，只是教程必须有代码）
+import { Command, InvalidArgumentError } from "commander";
+import { Douyu, Bilibili } from "./apis";
+import { Huya } from "./apis/huya";
+import { fatal } from "./logger";
+
+const program = new Command();
+
+program
+  .name("lsar")
+  .description("能够获取斗鱼、B站直播源的命令行工具")
+  .version("<<<<>>>>");
+
+const myParseInt = (value: string) => {
+  const parsedValue = Number(value);
+  if (Number.isNaN(parsedValue)) {
+    throw new InvalidArgumentError("不是一个整数");
+  }
+  return parsedValue;
+};
+
+program
+  .command("douyu")
+  .argument("<roomID>", "目标房间号（支持靓号）", myParseInt)
+  .description("解析斗鱼直播源（支持靓号）")
+  .action((roomID: number) => {
+    const c = new Douyu(roomID);
+    c.printLiveLink()
+      .then()
+      .catch((e) => {
+        console.log(e);
+      });
+  });
+
+interface BiliArg {
+  roomID: number;
+  url?: string;
+}
+
+program
+  .command("bili")
+  .description("解析B站直播源。\n可以使用房间ID或房间链接作为传入参数。")
+  .option("-r, --roomID <roomID>", "目标房间号", myParseInt, 0)
+  .option("-u, --url <pageURL>", "房间页面链接")
+  .action((arg: BiliArg) => {
+    const c = new Bilibili(arg.roomID, arg.url);
+    c.printLiveLink().catch((e) => {
+      console.log(e);
+    });
+  });
+
+type HuyaArg = BiliArg;
+
+program
+  .command("huya")
+  .description("解析虎牙直播源。")
+  .option("-r, --roomID <roomID>", "目标房间号", myParseInt)
+  .option("-u, --url <pageURL>", "房间页面链接")
+  .action((arg: HuyaArg) => {
+    if (arg.roomID === undefined && arg.url === undefined) {
+      fatal("参数错误，请查阅 -h/--help 以正确传递参数");
+    }
+    const h = new Huya(arg.roomID, arg.url);
+    h.printLiveLink().catch((e) => {
+      console.log(e);
+    });
+  });
+
+program.parse(process.argv);
