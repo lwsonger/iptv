@@ -4077,6 +4077,15 @@ CCTV-14,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
 昆明公共频道,http://39.130.215.222:6610/gitv_live/G_KMTV-6/
 
 
+苏州新闻综合,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+苏州社会经济,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+苏州生活资讯,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+苏州-1,rtmp://csztv.2500sz.com/live/c01
+苏州-2,rtmp://csztv.2500sz.com/live/c02
+苏州-3,rtmp://csztv.2500sz.com/live/c03
+苏州-5,rtmp://csztv.2500sz.com/live/c04苏州新闻综合,http://61.155.203.93:5021/live_hls/1/.m3u8苏州社会经济,http://61.155.203.93:5021/live_hls/2/.m3u8苏州文化生活,http://61.155.203.93:5021/live_hls/3/.m3u8苏州生活资讯,http://61.155.203.93:5021/live_hls/4/.m3u8
 
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
