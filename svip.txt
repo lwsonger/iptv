@@ -1,14 +1,4 @@
 咪咕体育,#genre#
-明珠台，http://ss.iptviptv.site:9694/hls/103/index.m3u8
-翡翠台(原版)，http://ss.iptviptv.site:9694/hls/98/index.m3u8
-千禧经典台，http://ss.iptviptv.site:9694/hls/901/index.m3u8
-翡翠台4k，http://ss.iptviptv.site:9694/hls/902/index.m3u8
-Animax，http://ss.iptviptv.site:9694/hls/903/index.m3u8
-美亚电影台，http://ss.iptviptv.site:9694/hls/904/index.m3u8
-TVB PLUS，http://ss.iptviptv.site:9694/hls/905/index.m3u8
-无线新闻台，http://ss.iptviptv.site:9694/hls/906/index.m3u8
-天映經典頻道，http://ss.iptviptv.site:9694/hls/914/index.m3u8
-黃金翡翠台，http://ss.iptviptv.site:9694/hls/916/index.m3u8
 咪咕视频8M01,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕视频8M02,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕视频8M03,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
@@ -1481,6 +1471,55 @@ Rock Entertainmen,p3p://108.181.20.159:31046/65ad27c7000dfceebd94ddb20bec19f4
 国会频道 2,p3p://108.181.20.159:31046/64ce06980008b4f755ff884d646a56da
 
 香港频道1,#genre#
+
+凤凰资讯台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156407
+凤凰美州台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156408
+新时代电视2台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=90352
+无线新闻台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153399
+TVB星河台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153506
+TVB千禧经典,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=571197
+TVB娱乐新闻,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153504
+TVB千禧经典台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153503
+TVBS亚洲台 HD,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153397
+华夏电视台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156422
+天下卫视 1,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156399
+天下卫视 2,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156400
+CCTV4中文国际,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156404
+Discovery Science,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=571211
+Food Network,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=57117
+Discovery Asia,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=571181
+BBC WORLD NEWS,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=926200
+TRAVEL CHANNEL,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=731794
+Crime&Investigation,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=571215
+美国城市卫星,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156401
+中天亚洲台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=571212
+卫视电影台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=941625
+三立国际台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156390
+东森中国台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156393
+台视综合HD,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156392
+民视新闻HD,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156389
+东森卫视H,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156394
+东森戏剧HD,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156395
+东森财经HD,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156396
+东森美洲HD,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156397
+台视新闻HD,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156398
+
+翡翠台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
+明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+星空卫视,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
+凤凰中文,http://1b6467f415.iok.la:9931/tsfile/live/1037_1.m3u
+天映频道,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+
+明珠台,http://ss.iptviptv.site:9694/hls/103/index.m3u8
+翡翠台,http://ss.iptviptv.site:9694/hls/98/index.m3u8
+千禧经典台,http://ss.iptviptv.site:9694/hls/901/index.m3u8
+翡翠台4k,http://ss.iptviptv.site:9694/hls/902/index.m3u8
+Animax,http://ss.iptviptv.site:9694/hls/903/index.m3u8
+美亚电影台,http://ss.iptviptv.site:9694/hls/904/index.m3u8
+TVB PLUS,http://ss.iptviptv.site:9694/hls/905/index.m3u8
+无线新闻台,http://ss.iptviptv.site:9694/hls/906/index.m3u8
+天映經典頻道,http://ss.iptviptv.site:9694/hls/914/index.m3u8
+黃金翡翠台,http://ss.iptviptv.site:9694/hls/916/index.m3u8
 凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u
 凤凰卫视,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
