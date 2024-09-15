@@ -1,4 +1,14 @@
 咪咕体育,#genre#
+明珠台，http://ss.iptviptv.site:9694/hls/103/index.m3u8
+翡翠台(原版)，http://ss.iptviptv.site:9694/hls/98/index.m3u8
+千禧经典台，http://ss.iptviptv.site:9694/hls/901/index.m3u8
+翡翠台4k，http://ss.iptviptv.site:9694/hls/902/index.m3u8
+Animax，http://ss.iptviptv.site:9694/hls/903/index.m3u8
+美亚电影台，http://ss.iptviptv.site:9694/hls/904/index.m3u8
+TVB PLUS，http://ss.iptviptv.site:9694/hls/905/index.m3u8
+无线新闻台，http://ss.iptviptv.site:9694/hls/906/index.m3u8
+天映經典頻道，http://ss.iptviptv.site:9694/hls/914/index.m3u8
+黃金翡翠台，http://ss.iptviptv.site:9694/hls/916/index.m3u8
 咪咕视频8M01,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕视频8M02,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕视频8M03,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
